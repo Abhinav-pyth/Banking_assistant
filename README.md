@@ -22,7 +22,6 @@ A sophisticated banking chatbot application that uses Azure OpenAI and Model Con
 ├── .env                   # Environment variables
 ├── templates/             # HTML templates
 │   └── index.html        # Chat interface
-├── static/               # Static files (CSS, JS)
 └── logs/                 # Log files
     ├── client_messages.log
     ├── mcp_client.log
@@ -143,9 +142,3 @@ python clear_logs.py
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Support
-
-For support, please contact:
-- Email: support@globaltrust.com
-- Phone: 1-800-GTB-BANK 
